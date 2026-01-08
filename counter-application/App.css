@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.heading {
+  color: blue;
+  font-size: 32px;
+}
+
+.counter-value {
+  color: black;
+  font-size: 80px;
+  margin: 20px;
+}
+
+button {
+  margin-top: 20px;
+  font-size: 8px;
+  padding: 16px;
+  margin: 5px;
+  border-radius: 12px;
+  background-color: lightgreen;
+  color: white;
+  font-weight: bold;
+}
